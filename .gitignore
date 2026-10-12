@@ -1,0 +1,10 @@
+# Java compiled files
+*.class
+bin/
+out/
+
+# VS Code workspace settings (optional)
+.vscode/
+
+# macOS
+.DS_Store
