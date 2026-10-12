@@ -1,6 +1,7 @@
 # Java LLD
 
 A repository for practicing **Low-Level Design (LLD)** concepts and design patterns in Java.
+<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/0ddeac0e-0b8d-4171-9463-4b13c1ba88fc" />
 
 ## Getting Started
 
